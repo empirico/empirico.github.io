@@ -1,6 +1,6 @@
 PrograMusic's Image Search works without a registration procedure, so we don't store any information that's yours. We don't store the content you find or the webpages you visit.
 
-We delegate the temporary Image uploads to imgbb.com , by using the app you agree to their terms of service[https://imgbb.com/tos] and privacy policy [https://imgbb.com/privacy] as well.
+We delegate the temporary Image uploads to imgbb.com , by using the app you agree to their terms of service[https://imgbb.com/tos] and privacy policy [https://imgbb.com/privacy] as well. Every image stored is temporary and IS deleted from the server between 5 an 30 minutes after uploading. We don't donwload, save or share the data uploaded by yourself.
 
 The images are hosted anonymously and are deleted after a period of time. This period of time may be subject to change. But the images are, and will always be deleted in short time.
 
